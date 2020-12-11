@@ -34,9 +34,9 @@ This codebase requires **Python version 3.5+** to run. It was written and tested
 [RSL magnitude/fingerprint.csv] A csv file contains a 6x3 sea-level fingerprints matrix. Each row corresponds to each sea-level site and each column corresponds to each ice sheet.  
 
 
-## Authors
+## Corresponding Author
 
-* **Yucheng Lin ** -  Corresponding Author
+* **Yucheng Lin**
 
 ### Co-authors
 * **Dr Fiona Hibbert**
