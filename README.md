@@ -36,7 +36,7 @@ This codebase requires **Python version 3.5+** to run. It was written and tested
 
 ## Authors
 
-* **Yucheng Lin ** - * Corresponding Author
+* **Yucheng Lin ** -  Corresponding Author
 
 ### Co-authors
 * **Dr Fiona Hibbert**
