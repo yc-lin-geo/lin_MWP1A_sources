@@ -1,6 +1,6 @@
 # Code supporting "A reconciled solution of Meltwater Pulse 1A sources using sea-level fingerprinting" by Lin et al. (2021)
 
-This repository is the Python code base for [Lin et al. 2021]:  "A reconciled solution of Meltwater Pulse 1A sources using sea-level fingerprinting".
+This repository contains the Python code base for [Lin et al. 2021]:  "A reconciled solution of Meltwater Pulse 1A sources using sea-level fingerprinting".
 
 **Project abstract:**
 
