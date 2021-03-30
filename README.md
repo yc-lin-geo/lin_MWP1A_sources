@@ -31,7 +31,7 @@ This codebase requires **Python version 3.5+** to run. It was written and tested
 * [SciPy](https://www.scipy.org/) 1.4.1
 
 ## File Descriptions
-* **[MWP-1A_sources_inversion.ipynb](./MWP-1A_sources_inversion.ipynb)** - A notebook contains the code used for MWP-1A inversion
+* **[MWP-1A_sources_inversion.ipynb](./MWP-1A_sources_inversion.ipynb)** - A notebook contains the code used for MWP-1A sources inversion
 * **RSL magnitude/Lin et al., Sup data.xlsx** - A excel spreadsheet contains the 20,000 samples of local MWP-1A sea-level rise magnitude at six sea-level sites, which are the input for our inversion. It also contains the inversion results for each iteration. Four spreadsheets contained with this excel file, please see the first description sheet for details.
 * **[RSL magnitude/fingerprint.csv](RSL_magnitude/fingerprint.csv)** - A csv file contains a 6x3 sea-level fingerprints matrix. Each row corresponds to each sea-level site and each column corresponds to each ice sheet.  
 
