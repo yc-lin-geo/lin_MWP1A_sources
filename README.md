@@ -12,7 +12,7 @@ If you have any questions, comments, or feedback on this work or code, please [c
 
 Lin, Y., Hibbert, F.D., Whitehouse, P.L. et al. A reconciled solution of Meltwater Pulse 1A sources using sea-level fingerprinting. Nat Commun 12, 2015 (2021).
 
-[![DOI](https://doi.org/10.1038/s41467-021-21990-y.svg)](https://doi.org/10.1038/s41467-021-21990-y)
+https://doi.org/10.1038/s41467-021-21990-y
 
 ## Data
 
